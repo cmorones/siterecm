@@ -1,0 +1,92 @@
+{
+    "Producción": {
+      "label": "Producción",
+      "url": "/main/index/10",
+      "items": {
+        "Valor Agregado Censal Bruto": {
+          "label": "Valor Agregado Censal Bruto",
+          "url": "/main/index/11"
+        },
+        "Participacion en el PIB": {
+          "label": "Participacion en el PIB",
+          "url": "/main/index/14",
+          "items": {
+            "Participacion en el PIB": {
+              "label": "Participacion en el PIB",
+              "url": "/main/index/15"
+            },
+            "Participacion en el PIB por Sector": {
+              "label": "Participacion en el PIB por Sector",
+              "url": "/main/index/16"
+            }
+          }
+        },
+        "PIB per capita": {
+          "label": "PIB per capita",
+          "url": "/main/index/21"
+        },
+        "ITAEE DF": {
+          "label": "ITAEE DF",
+          "url": "/main/index/24"
+        },
+        "Actividad Industrial ": {
+          "label": "Actividad Industrial ",
+          "url": "/main/index/37"
+        },
+        "Construcción": {
+          "label": "Construcción",
+          "url": "/main/index/44"
+        },
+        "Sector Manufacturero": {
+          "label": "Sector Manufacturero",
+          "url": "/main/index/51"
+        },
+        "Cuentas de Producción en el sector servicios": {
+          "label": "Cuentas de Producción en el sector servicios",
+          "url": "/main/index/64"
+        },
+        "Estadísticas de venta de enegía eléctrica ": {
+          "label": "Estadísticas de venta de enegía eléctrica ",
+          "url": "/main/index/67"
+        }
+      }
+    },
+    "Precios": {
+      "label": "Precios",
+      "url": "/main/index/70",
+      "items": {
+        "Indice General de Precios al consumidor": {
+          "label": "Indice General de Precios al consumidor",
+          "url": "/main/index/71"
+        }
+      }
+    },
+    "Empleo": {
+      "label": "Empleo",
+      "url": "/main/index/86"
+    },
+    "Salarios e Ingresos": {
+      "label": "Salarios e Ingresos",
+      "url": "/main/index/113"
+    },
+    "Empresas": {
+      "label": "Empresas",
+      "url": "/main/index/134"
+    },
+    "Inversión": {
+      "label": "Inversión",
+      "url": "/main/index/154"
+    },
+    "Finanzas": {
+      "label": "Finanzas",
+      "url": "/main/index/165"
+    },
+    "Comercio": {
+      "label": "Comercio",
+      "url": "/main/index/185"
+    },
+    "Turismo": {
+      "label": "Turismo",
+      "url": "/main/index/186"
+    }
+  }

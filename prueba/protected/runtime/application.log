@@ -1,0 +1,88 @@
+2014/12/05 14:26:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii".' in /var/www/html/siterecm/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/siterecm/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#1 /var/www/html/siterecm/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /var/www/html/siterecm/prueba/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/siterecm/prueba/index.php/gii
+---
+2014/12/05 14:29:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin".' in /var/www/html/siterecm/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/siterecm/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('admin')
+#1 /var/www/html/siterecm/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /var/www/html/siterecm/prueba/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/siterecm/prueba/index.php/admin
+---
+2014/12/05 14:30:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "usuarios/admin".' in /var/www/html/siterecm/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/siterecm/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('usuarios/admin')
+#1 /var/www/html/siterecm/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /var/www/html/siterecm/prueba/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/siterecm/prueba/index.php/usuarios/admin?view=about
+HTTP_REFERER=http://localhost/siterecm/prueba/index.php/site/index
+---
+2014/12/05 14:36:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "usuarios/admin".' in /var/www/html/siterecm/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/siterecm/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('usuarios/admin')
+#1 /var/www/html/siterecm/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /var/www/html/siterecm/prueba/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/siterecm/prueba/index.php/usuarios/admin?view=about
+HTTP_REFERER=http://localhost/siterecm/prueba/index.php/usuarios/admin?view=about
+---
+2014/12/05 14:36:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "usuarios/admin".' in /var/www/html/siterecm/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/siterecm/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('usuarios/admin')
+#1 /var/www/html/siterecm/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /var/www/html/siterecm/prueba/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/siterecm/prueba/index.php/usuarios/admin?view=about
+HTTP_REFERER=http://localhost/siterecm/prueba/index.php/usuarios/admin?view=about
+---
+2014/12/05 14:36:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "usuarios/admin".' in /var/www/html/siterecm/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/siterecm/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('usuarios/admin')
+#1 /var/www/html/siterecm/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /var/www/html/siterecm/prueba/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/siterecm/prueba/index.php/usuarios/admin?view=about
+HTTP_REFERER=http://localhost/siterecm/prueba/index.php/usuarios/admin?view=about
+---
+2014/12/05 14:36:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "usuarios/admin".' in /var/www/html/siterecm/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/siterecm/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('usuarios/admin')
+#1 /var/www/html/siterecm/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /var/www/html/siterecm/prueba/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/siterecm/prueba/index.php/usuarios/admin?view=about
+HTTP_REFERER=http://localhost/siterecm/prueba/index.php/usuarios/admin?view=about
+---
+2014/12/05 14:36:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "usuarios/admin".' in /var/www/html/siterecm/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/siterecm/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('usuarios/admin')
+#1 /var/www/html/siterecm/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /var/www/html/siterecm/prueba/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/siterecm/prueba/index.php/usuarios/admin?view=about
+HTTP_REFERER=http://localhost/siterecm/prueba/index.php/usuarios/admin?view=about
+---
+2014/12/05 14:36:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "usuarios/admin".' in /var/www/html/siterecm/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/siterecm/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('usuarios/admin')
+#1 /var/www/html/siterecm/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /var/www/html/siterecm/prueba/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/siterecm/prueba/index.php/usuarios/admin?view=about
+HTTP_REFERER=http://localhost/siterecm/prueba/index.php/usuarios/admin?view=about
+---
+2014/12/05 14:36:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "prueba/admin".' in /var/www/html/siterecm/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/siterecm/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('prueba/admin')
+#1 /var/www/html/siterecm/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /var/www/html/siterecm/prueba/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/siterecm/prueba/index.php/prueba/admin?view=about
+HTTP_REFERER=http://localhost/siterecm/prueba/index.php/site/index
+---
